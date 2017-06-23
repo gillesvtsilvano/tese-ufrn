@@ -1,0 +1,8 @@
+\nomenclatureentry{\LaTeX:@[{\LaTeX:}]\begingroup um poderoso processador de textos\nomeqref {1.0}|nompageref}{2}
+\nomenclatureentry{\BibTeX:@[{\BibTeX:}]\begingroup uma ferramenta para geração automática de listas de referências bibliográficas\nomeqref {1.0}|nompageref}{2}
+\nomenclatureentry{aaUFRN:@[{UFRN:}]\begingroup Universidade Federal do Rio Grande do Norte\nomeqref {2.0}|nompageref}{8}
+\nomenclatureentry{azPPgEEC:@[{PPgEEC:}]\begingroup Programa de Pós-Graduação em Engenharia Elétrica\nomeqref {2.0}|nompageref}{8}
+\nomenclatureentry{$\omega$@[{$\omega$}]\begingroup velocidade angular do corpo\nomeqref {2.1}|nompageref}{8}
+\nomenclatureentry{$\omega_0$@[{$\omega_0$}]\begingroup velocidade angular inicial do corpo\nomeqref {2.1}|nompageref}{8}
+\nomenclatureentry{$\alpha$@[{$\alpha$}]\begingroup aceleração angular do corpo\nomeqref {2.1}|nompageref}{8}
+\nomenclatureentry{$\Delta t$@[{$\Delta t$}]\begingroup tempo decorrido desde o instante em que foi medida a velocidade inicial até o instante presente\nomeqref {2.1}|nompageref}{8}

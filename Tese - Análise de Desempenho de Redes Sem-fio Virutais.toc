@@ -1,0 +1,40 @@
+\select@language {brazil}
+\contentsline {chapter}{Sum\IeC {\'a}rio}{i}{section*.4}
+\contentsline {chapter}{Lista de Figuras}{iii}{section*.6}
+\contentsline {chapter}{Lista de Tabelas}{v}{section*.8}
+\contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Processando textos com \LaTeX }{2}{section.1.1}
+\contentsline {chapter}{Lista de S\IeC {\'\i }mbolos e Abreviaturas}{1}{section*.10}
+\contentsline {chapter}{\numberline {2}Teoria}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Dimens\IeC {\~o}es}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}Divis\IeC {\~o}es do documento e refer\IeC {\^e}ncias cruzadas}{6}{section.2.2}
+\contentsline {section}{\numberline {2.3}Se\IeC {\c c}\IeC {\~o}es}{7}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Subse\IeC {\c c}\IeC {\~o}es}{7}{subsection.2.3.1}
+\contentsline {section}{\numberline {2.4}\IeC {\'I}ndices}{7}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Sum\IeC {\'a}rio}{8}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Listas de figuras e tabelas}{8}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Lista de s\IeC {\'\i }mbolos (gloss\IeC {\'a}rio)}{8}{subsection.2.4.3}
+\contentsline {section}{\numberline {2.5}Bibliografia}{8}{section.2.5}
+\contentsline {section}{\numberline {2.6}Considera\IeC {\c c}\IeC {\~o}es finais}{10}{section.2.6}
+\contentsline {chapter}{\numberline {3}Trabalhos relacionados}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1}Express\IeC {\~o}es matem\IeC {\'a}ticas}{13}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Equa\IeC {\c c}\IeC {\~o}es}{15}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Express\IeC {\~o}es multilinhas}{15}{subsection.3.1.2}
+\contentsline {chapter}{\numberline {4}Problema}{17}{chapter.4}
+\contentsline {section}{\numberline {4.1}Elementos flutuantes}{17}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Posicionamento dos elementos flutuantes}{18}{subsection.4.1.1}
+\contentsline {section}{\numberline {4.2}Tabelas em \LaTeX }{19}{section.4.2}
+\contentsline {section}{\numberline {4.3}Figuras em \LaTeX }{19}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Imagens e fotos}{21}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Figuras sint\IeC {\'e}ticas}{21}{subsection.4.3.2}
+\contentsline {section}{\numberline {4.4}Ferramentas para desenhos e esquemas}{24}{section.4.4}
+\contentsline {section}{\numberline {4.5}Ferramentas para gr\IeC {\'a}ficos}{25}{section.4.5}
+\contentsline {section}{\numberline {4.6}Conclus\IeC {\~o}es}{25}{section.4.6}
+\contentsline {chapter}{\numberline {5}Implementa\IeC {\c c}\IeC {\~a}o}{27}{chapter.5}
+\contentsline {section}{\numberline {5.1}Algoritmos}{27}{section.5.1}
+\contentsline {chapter}{\numberline {6}Experimentos e Resultados}{31}{chapter.6}
+\contentsline {chapter}{\numberline {7}Conclus\IeC {\~a}o}{33}{chapter.7}
+\contentsline {section}{\numberline {7.1}Etapas de Homologa\IeC {\c c}\IeC {\~a}o do T\IeC {\'\i }tulo}{33}{section.7.1}
+\contentsline {section}{\numberline {7.2}Para saber mais}{34}{section.7.2}
+\contentsline {chapter}{\numberline {A}Informa\IeC {\c c}\IeC {\~o}es adicionais}{35}{appendix.A}
+\contentsline {chapter}{Refer\IeC {\^e}ncias bibliogr\IeC {\'a}ficas}{35}{section*.12}
